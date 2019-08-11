@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /climbing/index.html
-title: Rock Climbing
+permalink: /workout/index.html
+title: Workout
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: climbing_feature.jpg
