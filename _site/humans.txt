@@ -1,0 +1,13 @@
+/* TEAM */
+Creator: Srikanth Gudi
+Contact: Srikanthgudi7@gmail.com
+Location: HackenSack, NJ
+
+/* THANKS */
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */
+Last update: 2019-08-11
+Standards: HTML, SCSS, Jekyll
+Software: git

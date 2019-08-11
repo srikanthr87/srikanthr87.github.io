@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Srikanth Gudi</title>
+<subtitle type="text">Software Developer</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2019-08-11T10:52:21-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Srikanth Gudi</name>
+  <uri>http://localhost:4000/</uri>
+  <email>Srikanthgudi7@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Blockchain using Hyperledger]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/blockchain-using-hyperledger" />
+  <id>http://localhost:4000/articles/blockchain-using-hyperledger</id>
+  <published>2019-01-07T00:00:00-05:00</published>
+  <updated>2019-01-07T00:00:00-05:00</updated>
+  <author>
+    <name>Srikanth Gudi</name>
+    <uri>http://localhost:4000</uri>
+    <email>Srikanthgudi7@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I will be publishing the article soon. Thanks for the patience.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/blockchain-using-hyperledger&quot;&gt;Blockchain using Hyperledger&lt;/a&gt; was originally published by Srikanth Gudi at &lt;a href=&quot;http://localhost:4000&quot;&gt;Srikanth Gudi&lt;/a&gt; on January 07, 2019.&lt;/p&gt;</content>
+</entry>
+
+</feed>
